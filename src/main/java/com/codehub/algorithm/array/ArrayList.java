@@ -1,7 +1,8 @@
 package com.codehub.algorithm.array;
 
-import com.kay.pro.alog.basic.Iterator;
-import com.kay.pro.alog.basic.List;
+
+import com.codehub.algorithm.Iterator;
+import com.codehub.algorithm.List;
 
 /**
  * 自己写的一个ArrayList类
